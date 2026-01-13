@@ -110,21 +110,30 @@ InternHub/
 # 1. Install dependencies
 pip install -r requirements.txt
 
-# 2. Run CLI
-python cli.py
-
-# 3. Choose options:
-#    - Analyze internship fit
-#    - Generate optimized resume
-#    - Get ATS score
-#    - Full analysis (all features)
-#    - Load from JSON files
 ```
- ### Option 2 : Quick Test
+### Option 2: Flask API (Web Service)
+
+```bash
+# 1. Install dependencies
+pip install -r requirements.txt
+
+# 2. Start API server
+python app.py
+
+# 3. Access API at http://localhost:5000
+#    - GET  / → API documentation
+#    - POST /analyze → Match analysis
+#    - POST /resume → Resume generation
+#    - POST /ats → ATS scoring
+#    - POST /full-analysis → Complete analysis
+```
+
+### Option 3: Quick Test
 
 ```bash
 python cli.py --quick-test
 ```
+
 
 ## 📊 Example Usage
 
