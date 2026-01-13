@@ -40,6 +40,12 @@ InternHub is a lightweight AI-powered platform that helps students find the righ
 │    └────────────┘      └───────────┘  │
 └─────────────────────────────────────────┘
 ```
+cli ss:
+<img width="1202" height="866" alt="image" src="https://github.com/user-attachments/assets/4f35fb7b-24fa-4c15-89d7-fa9bc4969dc8" />
+<img width="1210" height="914" alt="image" src="https://github.com/user-attachments/assets/dbe89b9f-bfbb-4afe-8925-12c084ad50a1" />
+<img width="1163" height="587" alt="image" src="https://github.com/user-attachments/assets/f0638586-701b-4de9-880e-ccc726cd2c05" />
+
+
 
 ## 🔑 Core Concepts
 
