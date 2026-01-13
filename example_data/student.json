@@ -1,0 +1,9 @@
+{
+  "name": "Rajesh Kumar",
+  "email": "rajesh.kumar@email.com",
+  "skills": ["Python", "JavaScript", "React", "Flask", "REST APIs", "SQL", "Git"],
+  "interests": ["Web Development", "Backend Development", "APIs"],
+  "experience": "Built 3 full-stack web projects in college, familiar with DevOps basics",
+  "cgpa": 3.6,
+  "resume_text": ""
+}

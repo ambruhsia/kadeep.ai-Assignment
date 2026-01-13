@@ -1,0 +1,17 @@
+{
+  "title": "Full Stack Web Developer Intern",
+  "company": "TechCorp India",
+  "description": "We are looking for a talented Full Stack Web Developer Intern to join our team. You will work on building scalable web applications using modern technologies. This is a great opportunity to learn and grow in a fast-paced environment.",
+  "required_skills": ["Python", "JavaScript", "React", "REST APIs", "Database Design"],
+  "preferred_skills": ["Docker", "AWS", "PostgreSQL", "Agile/Scrum"],
+  "responsibilities": [
+    "Develop frontend features using React",
+    "Build backend APIs using Python/Flask",
+    "Write unit tests and maintain code quality",
+    "Collaborate with team in daily standups",
+    "Debug and optimize application performance"
+  ],
+  "duration_months": 3,
+  "location": "Remote",
+  "compensation": "INR 15,000/month"
+}
